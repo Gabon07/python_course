@@ -30,3 +30,4 @@ if estimacion == numero:
 
 elif estimacion != numero:
     print('Pues no. El número que estaba pensando era ' + str(numero))
+    print('Suerte pa´la próxima')
